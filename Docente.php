@@ -5,7 +5,7 @@ require_once 'UsuarioCorreo.php';
  * Clase Docente.
  * Hereda de UsuarioCorreo y gestiona informacion academica del docente.
  * Datos del Alumno:
- * Nombre: Carlos Arturo Hernandez Nunez
+ * Nombre: Carlos Arturo Hernandez Nuñez
  * No. Control: 252310355
  * Fecha: 6 de mayo de 2026
  * Nombre de la actividad: Practica 4.3 - Programando usuarios de correo en PHP

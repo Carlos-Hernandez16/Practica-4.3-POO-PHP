@@ -6,7 +6,7 @@ require_once 'Alumno.php';
  * Script index.php.
  * Punto de entrada para ejecutar las pruebas y demostrar la herencia e instanciacion.
  * Datos del Alumno:
- * Nombre: Carlos Arturo Hernandez Nunez
+ * Nombre: Carlos Arturo Hernandez Nuñez
  * No. Control: 252310355
  * Fecha: 6 de mayo de 2026
  * Nombre de la actividad: Practica 4.3 - Programando usuarios de correo en PHP

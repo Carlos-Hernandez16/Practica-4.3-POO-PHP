@@ -3,7 +3,7 @@
  * Clase base abstracta UsuarioCorreo.
  * Modela los datos generales de un usuario institucional.
  * Datos del Alumno:
- * Nombre: Carlos Arturo Hernandez Nunez
+ * Nombre: Carlos Arturo Hernandez Nuñez
  * No. Control: 252310355
  * Fecha: 6 de mayo de 2026
  * Nombre de la actividad: Practica 4.3 - Programando usuarios de correo en PHP
